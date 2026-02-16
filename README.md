@@ -1,4 +1,5 @@
-## Hi there, I'm Ivan! 👋
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0e1117,100:007bff&height=200&section=header&text=Ivan%20Bohorquez&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Electronic%20Engineer%20|%20Python%20Developer%20|%20AI%20Enthusiast&descSize=20&descAlignY=60)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
