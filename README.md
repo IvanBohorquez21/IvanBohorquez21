@@ -9,7 +9,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-I am an *Electronic Engineering* (graduating Sept 2025) passionate about software development, **Machine Learning**, and **Automation**. 
+I am an **Electronic Engineering** (graduating Sept 2025) passionate about software development, **Machine Learning**, and **Automation**. 
 
 ### 🚀 Featured Projects
 * **[Solar Energy Prediction](https://github.com/IvanBohorquez21/Solar-Energy-Prediction):** Real-time solar output estimator using OpenWeatherMap API.
