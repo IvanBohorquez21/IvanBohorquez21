@@ -8,7 +8,7 @@ I am an *Electronic Engineering* (graduating Sept 2025) passionate about softwar
 ### 🚀 Featured Projects
 * **[Solar Energy Prediction](https://github.com/IvanBohorquez21/Solar-Energy-Prediction):** Real-time solar output estimator using OpenWeatherMap API.
 * **[Movie Sentiment Analysis](https://github.com/IvanBohorquez21/Movie-Sentiment-Analysis):** NLP classification of movie reviews.
-* **[Oil Palm Identification]([https://github.com/IvanBohorquez21/Solar-Energy-Prediction](https://github.com/hvargas121288/palm_oil_segmentation_satelital_images)):** Satellite imagery segmentation using U-Net.
+* **[Oil Palm Identification](https://github.com/IvanBohorquez21/Solar-Energy-Prediction](https://github.com/hvargas121288/palm_oil_segmentation_satelital_images):** Satellite imagery segmentation using U-Net.
 
 ### 🛠️ Tech Stack
 * **Languages:** Python (Pandas, NumPy, Scikit-Learn, Plotly), C/C++, LaTeX.
