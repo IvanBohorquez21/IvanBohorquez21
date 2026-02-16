@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
-I am an **Electronic Engineering student** (graduating Sept 2025) passionate about software development, **Machine Learning**, and **Automation**. 
+I am an **Electronic Engineering ** (graduating Sept 2025) passionate about software development, **Machine Learning**, and **Automation**. 
 
 ### 🚀 Featured Projects
 * **[Solar Energy Prediction](https://github.com/IvanBohorquez21/Solar-Energy-Prediction):** Real-time solar output estimator using OpenWeatherMap API.
