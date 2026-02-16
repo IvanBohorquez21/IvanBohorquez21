@@ -15,6 +15,8 @@ I am an *Electronic Engineering* (graduating Sept 2025) passionate about softwar
 * **AI & Data:** Deep Learning (TensorFlow/Keras), NLP, MLOps, API Integration.
 * **Tools:** Git, GitHub, VS Code, Streamlit, Linux.
 
+![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanBohorquez21&show_icons=true&theme=tokyonight)
+
 ### 📫 Connect with me:
 * [LinkedIn](https://www.linkedin.com/in/ivan-fernando-bohorquez-hernandez-9a0aa31a1)
 * [Email](mailto:ivanb.fh@outlook.com)
