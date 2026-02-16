@@ -6,6 +6,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-blue?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 I am an *Electronic Engineering* (graduating Sept 2025) passionate about software development, **Machine Learning**, and **Automation**. 
 
